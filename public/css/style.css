@@ -1,0 +1,29 @@
+
+.login-page {
+    background-image: url("../image/r.jpg") ;
+}
+.login-logo {
+    font-size: 50px;
+    color: black
+}
+.login-box-body {
+    font-size: 15   px;
+    background: #BDB76B
+}
+.text-center {
+    color:black
+}
+
+
+.register-page {
+    background-image: url("../image/r.jpg") ;
+}
+.register-logo {
+    font-size: 50px;
+}
+.register-box-body {
+    background: #BDB76B
+}
+.auth-links {
+    color:black
+}
